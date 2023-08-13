@@ -1,5 +1,3 @@
-###Precision Prophet
-
 During my engagement on the project "PrecisionProphet, I took on a pivotal role in enhancing the effectiveness of the bank's term deposit campaign through the strategic implementation of advanced Statistical and Machine Learning techniques. The outcome was nothing short of remarkable, as the prediction accuracy soared to an impressive 91.3%, a significant improvement that underscored the power of data-driven approaches in shaping marketing strategies.
 
 One of the cornerstones of my contributions was the integration of state-of-the-art model explainability modules, namely SHAP and LIME. These modules played a critical role in shedding light on the intricate factors that influenced client subscriptions. By revealing the key drivers behind subscription decisions, we gained invaluable insights into customer behavior and preferences, which in turn allowed the bank to tailor its campaign strategies with a precision and relevance that was previously unattainable.
